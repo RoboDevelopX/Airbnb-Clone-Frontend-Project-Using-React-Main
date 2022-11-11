@@ -1,5 +1,3 @@
-# Getting Started with air bnb clone (don't forget to star the project)
-
 ![image](https://user-images.githubusercontent.com/42828778/150352215-ec95c492-9cd9-46b4-bf23-bdbf8798d066.png)                                                                                                                      
                                                                                                                         
 ![image](https://user-images.githubusercontent.com/42828778/150352296-b14e4c41-fbfb-4dbd-a265-f03c5eeabbe0.png)
@@ -73,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## Open for contributions.
